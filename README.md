@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 🔭 Actualmente trabajando en el área de Machine Learning para sistemas embebidos.
 - 👯 Buscando colaborar en proyectos de Deep Learning, e IoT.
-- 📝 Escribo sobre tecnología y desarrollo en mi blog. ![Hackster.io](https://www.hackster.io/moisesstevend)
-- 📫 Coordino la Comunidad de TinyML Perú. ![Comunidad TinyML Perú](https://www.facebook.com/tinymlperu/)
+- 📝 Escribo sobre tecnología y desarrollo en mi blog. [Hackster.io](https://www.hackster.io/moisesstevend)
+- 📫 Coordino la Comunidad de TinyML Perú. [Comunidad TinyML Perú](https://www.facebook.com/tinymlperu/)
 
 ---
 
