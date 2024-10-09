@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # ¡Hola! Soy MSMRo 👋
 
-### Ingeniero apasionado por inteligencia artificial, robótica e IoT.
+### Ingeniero apasionado por inteligencia artificial, sistemas embebidos e IoT.
 
 - 🔭 Actualmente trabajando en el área de Machine Learning para sistemas embebidos.
 - 👯 Buscando colaborar en proyectos de Deep Learning, e IoT.
