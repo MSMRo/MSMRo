@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MSMRo/MSMRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,17 +18,16 @@ Here are some ideas to get you started:
 
 ### Ingeniero apasionado por inteligencia artificial, robótica e IoT.
 
-- 🌱 Actualmente aprendiendo sobre Machine Learning para sistemas embebidos.
-- 👯 Buscando colaborar en proyectos de Machine Learning, Deep Learning, e IoT.
-- 📝 Escribo sobre tecnología y desarrollo en mi blog.
-- 📫 Cómo contactarme: msmro@example.com
+- 🔭 Actualmente trabajando en el área de Machine Learning para sistemas embebidos.
+- 👯 Buscando colaborar en proyectos de Deep Learning, e IoT.
+- 📝 Escribo sobre tecnología y desarrollo en mi blog. ![Hackster.io](https://www.hackster.io/moisesstevend)
+- 📫 Coordino la Comunidad de TinyML Perú. ![Comunidad TinyML Perú](https://www.facebook.com/tinymlperu/)
 
 ---
 
 ## Sobre mí
 
-Soy ingeniero especializado en el desarrollo de soluciones para el reconocimiento de imágenes, inteligencia artificial y visión por computadora. He trabajado en proyectos enfocados en sistemas embebidos, procesamiento de señales e inteligencia artificial.
-
+Ingeniero electrónico y Magister en Informática Biomédica, cursando una segunda maestria en Inteligencia Artificial. Cuenta con especialización en Informática en Salud, Big Data, Data Analytics y Machine Learning. Actualmente es docente de la facultad de Ciencias e Ingenierias de la UPCH, coordinador de la concentración de señales e Imágenes Biomédicas de la carrera de ingenieria Biomédica de la UPCH y consultor de diversos proyectos enfocados en tecnologias en salud. Tambien es miembro del Instituto de ingenieros Eléctricos y Electrónicos IEEE y del Comité Especializado de Inteligencia Aritificial del Capitulo de ing. Electrónica del Colégio de Ingenieros del Perú. Las áreas de interes son: Procesamiento de BioSeñales, Procesamiento de imágenes médicas, Machine Learning Embebido, Internet de la Cosas, deep learning, Sistemas Embebidos e informática en salud.. Es Founder de la Comunidad de TinyML Perú, donde promueve el uso de modelos de machine learning inferidos en microcontroladores.
 ---
 
 ## Proyectos Destacados
@@ -65,7 +62,7 @@ Soy ingeniero especializado en el desarrollo de soluciones para el reconocimient
 
 ## Contáctame
 
-- 📧 Correo: msmro@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/msmro)
-- 🐦 [Twitter](https://twitter.com/msmro)
+- 📧 Correo: moises.meza@upch.pe
+- 💼 [LinkedIn](https://www.linkedin.com/in/moises-meza-rodriguez/)
+- 🐦 [Twitter](https://x.com/moisesm56944895)
 
