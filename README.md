@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## Sobre mí
 
 Ingeniero electrónico y Magister en Informática Biomédica, cursando una segunda maestria en Inteligencia Artificial. Cuenta con especialización en Informática en Salud, Big Data, Data Analytics y Machine Learning. Actualmente es docente de la facultad de Ciencias e Ingenierias de la UPCH, coordinador de la concentración de señales e Imágenes Biomédicas de la carrera de ingenieria Biomédica de la UPCH y consultor de diversos proyectos enfocados en tecnologias en salud. Tambien es miembro del Instituto de ingenieros Eléctricos y Electrónicos IEEE y del Comité Especializado de Inteligencia Aritificial del Capitulo de ing. Electrónica del Colégio de Ingenieros del Perú. Las áreas de interes son: Procesamiento de BioSeñales, Procesamiento de imágenes médicas, Machine Learning Embebido, Internet de la Cosas, deep learning, Sistemas Embebidos e informática en salud. Founder de la Comunidad de TinyML Perú, donde promueve el uso de modelos de machine learning inferidos en microcontroladores.
+
 ---
 
 ![Proyectos](img/projectos_moises.PNG)
