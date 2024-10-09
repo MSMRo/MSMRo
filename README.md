@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# ¡Hola! Soy MSMRo 👋
+# ¡Hola! Soy Moises Meza 👋
 
 ### Ingeniero apasionado por inteligencia artificial, sistemas embebidos e IoT.
 
